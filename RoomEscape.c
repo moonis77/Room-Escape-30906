@@ -501,6 +501,7 @@ void cloek(){
 		}
 		system("pause");
 	}	
+	
 }	
 
 	
